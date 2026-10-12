@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+morfessor
+sentencepiece
+transformers<5
+accelerate
+shap
+torch
